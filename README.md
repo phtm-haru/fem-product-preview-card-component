@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-WhO2S5lvSu)
 - Live Site URL: [Live Site](https://phtm-haru.github.io/fem-product-preview-card-component/)
 
 ## My process
