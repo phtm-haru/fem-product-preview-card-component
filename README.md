@@ -42,7 +42,8 @@ Users should be able to:
 
 ### What I learned
 
+Flexbox
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/phtm-haru)
+- Frontend Mentor - [@phtm-haru](https://www.frontendmentor.io/profile/phtm-haru)
