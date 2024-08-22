@@ -202,6 +202,7 @@ header {
 
   .img-of-product {
     content: url(../images/image-product-desktop.jpg);
+    filter: brightness(90%);
     height: inherit;
     object-position: center;
     vertical-align: middle;
